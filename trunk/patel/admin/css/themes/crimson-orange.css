@@ -1,0 +1,179 @@
+/*Crimson Orange*/
+.cont.crimson-orange .wrapper .date_selector td.selected {
+	background: #E75814;
+	color: #fff;
+	font-weight: bold;
+	}
+.cont.crimson-orange .wrapper .date_selector td.today {
+	background: #EF814B;
+	color: #FFFFFF;
+}
+.cont.crimson-orange .wrapper .date_selector td.selectable.listing_day:hover, .cont.crimson-orange .wrapper .block .date_selector td.selectable_day.hover {
+	background: #E75814;
+}
+.cont.crimson-orange .menu{
+	background: url('../../img/menu_bg_orange.jpg') repeat-x;
+}
+.cont.crimson-orange .menu .menu-wrap .search input.search{
+	background: url('../../img/search_bg_orange.png') no-repeat;
+}
+.cont.crimson-orange .menu .menu-wrap .login span.ico{
+	background: url('../../img/login_bg_orange.png') no-repeat;
+}
+.cont.crimson-orange .wrapper .block.medium .top h1{
+   border-bottom: solid 1px #91370c;
+	text-shadow: 0 1px 0 #89340c;
+
+   background: #e95914;
+   background: -webkit-gradient(linear, left top, left bottom, from(#e95914), to(#c34a10)); /* for webkit browsers */
+   background: -moz-linear-gradient(top,  #e95914, #c34a10); /* for firefox 3.6+ */
+   background: -o-linear-gradient(top,  #e95914, #c34a10); /* for firefox 3.6+ */
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#e95914, endColorstr=#c34a10);
+}
+.cont.crimson-orange .wrapper .block.medium .top ul li a{
+	text-shadow: 0 1px 1px #89340c;
+}
+.cont.crimson-orange .wrapper .block.medium .top{
+   background: url('../../img/top_bg_orange.png') no-repeat left top, url('../../img/h1_bg_orange.png') no-repeat right top;
+}
+.cont.crimson-orange .wrapper .block .content h2{
+   color:#AC420F;
+}
+.cont.crimson-orange .wrapper .block.medium .top h2{
+	border-bottom: solid 1px #91370c;
+	text-shadow: 0 1px 0 #89340c;
+
+   background: #e95914;
+   background: -webkit-gradient(linear, left top, left bottom, from(#e95914), to(#c34a10)); /* for webkit browsers */
+   background: -moz-linear-gradient(top,  #e95914, #c34a10); /* for firefox 3.6+ */
+   background: -o-linear-gradient(top,  #e95914, #c34a10); /* for firefox 3.6+ */
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#e95914, endColorstr=#c34a10);
+}
+.cont.crimson-orange .wrapper .block.large .top h1{
+	border-bottom: solid 1px #91370c;
+	text-shadow: 0 1px 0 #89340c;
+
+   background: #e95914;
+   background: -webkit-gradient(linear, left top, left bottom, from(#e95914), to(#c34a10)); /* for webkit browsers */
+   background: -moz-linear-gradient(top,  #e95914, #c34a10); /* for firefox 3.6+ */
+   background: -o-linear-gradient(top,  #e95914, #c34a10); /* for firefox 3.6+ */
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#e95914, endColorstr=#c34a10);
+}
+.cont.crimson-orange .wrapper .block.large .top{
+   background: url('../../img/top_bg_orange.png') no-repeat left top, url('../../img/h1_bg_orange.png') no-repeat right top;
+}
+.cont.crimson-orange .wrapper .block.large .top input.search{
+	background: url('../../img/search_bg_orange.png') no-repeat;
+}
+.cont.crimson-orange .wrapper .block.large .top h2{
+	border-bottom: solid 1px #91370c;
+	text-shadow: 0 1px 0 #89340c;
+
+   background: #e95914;
+   background: -webkit-gradient(linear, left top, left bottom, from(#e95914), to(#c34a10)); /* for webkit browsers */
+   background: -moz-linear-gradient(top,  #e95914, #c34a10); /* for firefox 3.6+ */
+   background: -o-linear-gradient(top,  #e95914, #c34a10); /* for firefox 3.6+ */
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#e95914, endColorstr=#c34a10);
+}
+.cont.crimson-orange .wrapper .block.medium .top input.search{
+	background: url("../../img/search_bg_orange.png") no-repeat;
+}
+.cont.crimson-orange .wrapper .block.large .content div.actions div.pager a{
+	color: #DE5513;
+	text-shadow: 0 1px 0 #F2F2F2;
+}
+.cont.crimson-orange .wrapper .block.large .content div.actions div.pager a.active{
+	background: #E95914;
+   background: -webkit-gradient(linear, left top, left bottom, from(#E95914), to(#B1440F)); /* for webkit browsers */
+   background: -moz-linear-gradient(top,  #E95914, #B1440F); /* for firefox 3.6+ */
+   background: -o-linear-gradient(top,  #E95914, #B1440F); /* for firefox 3.6+ */
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#E95914, endColorstr=#B1440F);
+}
+.cont.crimson-orange .wrapper .block.large .content div.actions div.pager a:hover{
+	background: #E95914;
+   background: -webkit-gradient(linear, left top, left bottom, from(#E95914), to(#B1440F)); /* for webkit browsers */
+   background: -moz-linear-gradient(top,  #E95914, #B1440F); /* for firefox 3.6+ */
+   background: -o-linear-gradient(top,  #E95914, #B1440F); /* for firefox 3.6+ */
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#E95914, endColorstr=#B1440F);
+}
+.cont.crimson-orange .wrapper .block.large .content ul.tab li a.active span.l{
+	background: url('../../img/tab_left_active_orange.png') no-repeat;
+}
+.cont.crimson-orange .wrapper .block.large .content ul.tab li a.active span.c{
+	background: url('../../img/tab_active_orange.png') repeat-x;
+	text-shadow: 0 1px 0 #F38533;
+}
+.cont.crimson-orange .wrapper .block.large .content ul.tab li a.active span.r{
+	background: url('../../img/tab_right_active_orange.png') no-repeat;
+}
+.cont.crimson-orange .wrapper .block.large .content ul.tab li a.active{
+	color: #6B290A;
+}
+
+.cont.crimson-orange .wrapper .block.large .content ul.tab li a:hover{
+	color: #6B290A;
+}
+.cont.crimson-orange .wrapper .block.large .content ul.tab li a:hover span.l{
+	background: url('../../img/tab_left_active_orange.png') no-repeat;
+}
+.cont.crimson-orange .wrapper .block.large .content ul.tab li a:hover span.c{
+	background: url('../../img/tab_active_orange.png') repeat-x;
+	text-shadow: 0 1px 0 #F38533;
+}
+.cont.crimson-orange .wrapper .block.large .content ul.tab li a:hover span.r{
+	background: url('../../img/tab_right_active_orange.png') no-repeat;
+}
+.cont.crimson-orange .wrapper .block.large .content .accordion .title.ui-state-active{
+	background: url('../../img/acordeon_bg_active_orange.jpg') repeat-x;
+	border-left: solid 1px #AF4614;
+	border-right: solid 1px #AF4614;
+	text-shadow: 1px 1px 1px #662607;
+}
+.cont.crimson-orange .wrapper .block.large .content .loader .progress .ui-progressbar-value{
+	background: url('../../img/load_bg_orange.jpg') repeat-x;
+}
+.cont.crimson-orange .wrapper .block.large .side-tabs .tab-list ul li.active{
+	background: url('../../img/side_bg_orange.png') repeat-x;
+}
+.cont.crimson-orange .wrapper .block.large .side-tabs .tab-list ul li.active a{
+	text-shadow: 1px 1px 1px #9E4706;
+}
+.cont.crimson-orange .wrapper .block.large .side-tabs .tab-list ul li.active span.arrow{
+	background: url('../../img/arrow_orange.png') no-repeat;
+}
+.cont.crimson-orange .wrapper .block  span.action {
+  background: url('../../img/upload_orange.png') no-repeat;
+}
+.cont.crimson-orange .wrapper div.uploader:hover span.action {
+  background: url('../../img/upload_orange.png') no-repeat 0 -35px;
+}
+
+.cont.crimson-orange .wrapper div.uploader.active span.action,
+.cont.crimson-orange .wrapper div.uploader:hover span.action {
+ background: url('../../img/upload_orange.png') no-repeat 0 -35px;
+}
+
+.cont.crimson-orange .wrapper .sidebar .block .content ul li a.active,
+.cont.crimson-orange .wrapper .sidebar .block .content ul li a:hover{
+   background: #AC420E;
+   background: -webkit-gradient(linear, left top, left bottom, from(#AC420E), to(#C94D11)); /* for webkit browsers */
+   background: -moz-linear-gradient(top,  #AC420E, #C94D11); /* for firefox 3.6+ */
+   background: -o-linear-gradient(top,  #AC420E, #C94D11); /* for firefox 3.6+ */
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#AC420E, endColorstr=#C94D11);
+}
+.cont.crimson-orange .wrapper .block.large .content div.actions div.pager a.active{
+	color: #ffffff;
+	text-shadow: 0 1px 0 #652608;
+}
+.cont.crimson-orange .wrapper .block.large .content div.actions div.pager a:hover{
+	color: #ffffff;
+	text-shadow: 0 1px 0 #652608;
+}
+.cont.crimson-orange .ui-autocomplete .ui-menu-item a.ui-state-hover{
+
+   background: #B74710;
+   background: -webkit-gradient(linear, left top, left bottom, from(#B74710), to(#DC5413)); /* for webkit browsers */
+   background: -moz-linear-gradient(top,  #B74710, #DC5413); /* for firefox 3.6+ */
+   background: -o-linear-gradient(top,  #B74710, #DC5413); /* for opera */
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#B74710, endColorstr=#DC5413);
+}

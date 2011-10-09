@@ -1,0 +1,178 @@
+/*Soft Green*/
+.cont.soft-green .menu{
+	background: url('../../img/menu_bg_green.jpg') repeat-x;
+}
+.cont.soft-green .wrapper .date_selector td.selected {
+	background: #6F9631;
+	color: #fff;
+	font-weight: bold;
+	}
+.cont.soft-green .wrapper .date_selector td.today {
+	background: #A2DB48;
+	color: #6F9631;
+}
+.cont.soft-green .wrapper .date_selector td.selectable.listing_day:hover, .cont.soft-green .wrapper .block .date_selector td.selectable_day.hover {
+	background: #6F9631;
+}
+.cont.soft-green .menu .menu-wrap .search input.search{
+	background: url('../../img/search_bg_green.png') no-repeat;
+}
+.cont.soft-green .menu .menu-wrap .login span.ico{
+	background: url('../../img/login_bg_green.png') no-repeat;
+}
+.cont.soft-green .wrapper .block.medium .top h1{
+   border-bottom: solid 1px #4B6A1C;
+	text-shadow: 0 1px 0 #354A14;
+
+   background: #7AA935;
+   background: -webkit-gradient(linear, left top, left bottom, from(#7AA935), to(#648E25)); /* for webkit browsers */
+   background: -moz-linear-gradient(top,  #7AA935, #648E25); /* for firefox 3.6+ */
+   background: -o-linear-gradient(top,  #7AA935, #648E25); /* for firefox 3.6+ */
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7AA935, endColorstr=#648E25);
+}
+.cont.soft-green .wrapper .block.medium .top ul li a{
+	text-shadow: 0 1px 1px #354A14;
+}
+.cont.soft-green .wrapper .block.medium .top{
+   background: url('../../img/top_bg_green.png') no-repeat left top, url('../../img/h1_bg_green.png') no-repeat right top;
+}
+.cont.soft-green .wrapper .block .content h2{
+   color:#5F7938;
+}
+.cont.soft-green .wrapper .block.medium .top h2{
+	border-bottom: solid 1px #4B6A1C;
+	text-shadow: 0 1px 0 #354A14;
+
+   background: #7AA935;
+   background: -webkit-gradient(linear, left top, left bottom, from(#7AA935), to(#648E25)); /* for webkit browsers */
+   background: -moz-linear-gradient(top,  #7AA935, #648E25); /* for firefox 3.6+ */
+   background: -o-linear-gradient(top,  #7AA935, #648E25); /* for firefox 3.6+ */
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7AA935, endColorstr=#648E25);
+}
+.cont.soft-green .wrapper .block.large .top h1{
+	border-bottom: solid 1px #4B6A1C;
+	text-shadow: 0 1px 0 #354A14;
+
+   background: #7AA935;
+   background: -webkit-gradient(linear, left top, left bottom, from(#7AA935), to(#648E25)); /* for webkit browsers */
+   background: -moz-linear-gradient(top,  #7AA935, #648E25); /* for firefox 3.6+ */
+   background: -o-linear-gradient(top,  #7AA935, #648E25); /* for firefox 3.6+ */
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7AA935, endColorstr=#648E25);
+}
+.cont.soft-green .wrapper .block.large .top{
+   background: url('../../img/top_bg_green.png') no-repeat left top, url('../../img/h1_bg_green.png') no-repeat right top;
+}
+.cont.soft-green .wrapper .block.large .top input.search{
+	background: url('../../img/search_bg_green.png') no-repeat;
+}
+.cont.soft-green .wrapper .block.large .top h2{
+	border-bottom: solid 1px #4B6A1C;
+	text-shadow: 0 1px 0 #354A14;
+
+   background: #7AA935;
+   background: -webkit-gradient(linear, left top, left bottom, from(#7AA935), to(#648E25)); /* for webkit browsers */
+   background: -moz-linear-gradient(top,  #7AA935, #648E25); /* for firefox 3.6+ */
+   background: -o-linear-gradient(top,  #7AA935, #648E25); /* for firefox 3.6+ */
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7AA935, endColorstr=#648E25);
+}
+.cont.soft-green .wrapper .block.medium .top input.search{
+	background: url("../../img/search_bg_green.png") no-repeat;
+}
+.cont.soft-green .wrapper .block.large .content div.actions div.pager a{
+	color: #476314;
+	text-shadow: 0 1px 0 #F2F2F2;
+}
+.cont.soft-green .wrapper .block.large .content div.actions div.pager a.active{
+	background: #6F9634;
+   background: -webkit-gradient(linear, left top, left bottom, from(#6F9634), to(#557325)); /* for webkit browsers */
+   background: -moz-linear-gradient(top,  #6F9634, #557325); /* for firefox 3.6+ */
+   background: -o-linear-gradient(top,  #6F9634, #557325); /* for firefox 3.6+ */
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#6F9634, endColorstr=#557325);
+}
+.cont.soft-green .wrapper .block.large .content div.actions div.pager a:hover{
+	background: #6F9634;
+   background: -webkit-gradient(linear, left top, left bottom, from(#6F9634), to(#557325)); /* for webkit browsers */
+   background: -moz-linear-gradient(top,  #6F9634, #557325); /* for firefox 3.6+ */
+   background: -o-linear-gradient(top,  #6F9634, #557325); /* for firefox 3.6+ */
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#6F9634, endColorstr=#557325);
+}
+.cont.soft-green .wrapper .block.large .content ul.tab li a.active span.l{
+	background: url('../../img/tab_left_active_green.png') no-repeat;
+}
+.cont.soft-green .wrapper .block.large .content ul.tab li a.active span.c{
+	background: url('../../img/tab_active_green.png') repeat-x;
+	text-shadow: 0 1px 0 #88B349;
+}
+.cont.soft-green .wrapper .block.large .content ul.tab li a.active span.r{
+	background: url('../../img/tab_right_active_green.png') no-repeat;
+}
+.cont.soft-green .wrapper .block.large .content ul.tab li a.active{
+	color: #2F450E;
+}
+
+.cont.soft-green .wrapper .block.large .content ul.tab li a:hover{
+	color: #2F450E;
+}
+.cont.soft-green .wrapper .block.large .content ul.tab li a:hover span.l{
+	background: url('../../img/tab_left_active_green.png') no-repeat;
+}
+.cont.soft-green .wrapper .block.large .content ul.tab li a:hover span.c{
+	background: url('../../img/tab_active_green.png') repeat-x;
+	text-shadow: 0 1px 0 #88B349;
+}
+.cont.soft-green .wrapper .block.large .content ul.tab li a:hover span.r{
+	background: url('../../img/tab_right_active_green.png') no-repeat;
+}
+.cont.soft-green .wrapper .block.large .content .accordion .title.ui-state-active{
+	background: url('../../img/acordeon_bg_active_green.jpg') repeat-x;
+	border-left: solid 1px #608C1C;
+	border-right: solid 1px #608C1C;
+	text-shadow: 1px 1px 1px #3A5513;
+}
+.cont.soft-green .wrapper .block.large .content .loader .progress .ui-progressbar-value{
+	background: url('../../img/load_bg_green.jpg') repeat-x;
+}
+.cont.soft-green .wrapper .block.large .side-tabs .tab-list ul li.active{
+	background: url('../../img/side_bg_green.png') repeat-x;
+}
+.cont.soft-green .wrapper .block.large .side-tabs .tab-list ul li.active a{
+	text-shadow: 1px 1px 1px #4C6720;
+}
+.cont.soft-green .wrapper .block.large .side-tabs .tab-list ul li.active span.arrow{
+	background: url('../../img/arrow_green.png') no-repeat;
+}
+.cont.soft-green .wrapper .block  span.action {
+  background: url('../../img/upload_green.png') no-repeat;
+}
+.cont.soft-green .wrapper div.uploader.hover span.action {
+  background: url('../../img/upload_hover_green.png') no-repeat;
+}
+
+.cont.soft-green .wrapper div.uploader.active span.action,
+.cont.soft-green .wrapper div.uploader:hover span.action {
+ background: url('../../img/upload_green.png') no-repeat 0 -35px;
+}
+.cont.soft-green .wrapper .sidebar .block .content ul li a.active,
+.cont.soft-green .wrapper .sidebar .block .content ul li a:hover{
+   background: #51751D;
+   background: -webkit-gradient(linear, left top, left bottom, from(#51751D), to(#5C8321)); /* for webkit browsers */
+   background: -moz-linear-gradient(top,  #51751D, #5C8321); /* for firefox 3.6+ */
+   background: -o-linear-gradient(top,  #51751D, #5C8321); /* for firefox 3.6+ */
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#51751D, endColorstr=#5C8321);
+}
+.cont.soft-green .wrapper .block.large .content div.actions div.pager a.active{
+	color: #ffffff;
+	text-shadow: 0 1px 0 #2F4015;
+}
+.cont.soft-green .wrapper .block.large .content div.actions div.pager a:hover{
+	color: #ffffff;
+	text-shadow: 0 1px 0 #2F4015;
+}
+.cont.soft-green .ui-autocomplete .ui-menu-item a.ui-state-hover{
+
+   background: #374E14;
+   background: -webkit-gradient(linear, left top, left bottom, from(#374E14), to(#5A7A2A)); /* for webkit browsers */
+   background: -moz-linear-gradient(top,  #374E14, #5A7A2A); /* for firefox 3.6+ */
+   background: -o-linear-gradient(top,  #374E14, #5A7A2A); /* for opera */
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#374E14, endColorstr=#5A7A2A);
+}
